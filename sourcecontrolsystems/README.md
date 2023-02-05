@@ -19,6 +19,14 @@ Below are few important links to see the details around importance of the source
 Over the period of time many such systems came (listed below) but the mostly used one as of today is GitHub.
 At the heart of GitHub is an open source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer.
 
+There are mainly three types of version control systems.
+
+1. Local Version Control Systems
+2. Centralized Version Control Systems
+3. Distributed Version Control Systems
+
+You can also read more info [here](https://www.w3docs.com/learn-git/version-control-system.html).
+
 ## What is Git?
 
 Git is an open-source distributed source code management system. Git allows you to create a copy of your repository known as a branch. Using this branch, you can then work on your code independently from the stable version of your codebase. Once you are ready with your changes, you can store them as a set of differences, known as a commit. You can pull in commits from other contributors to your repository, push your commits to others, and merge your commits back into the main version of the repository.  To learn more about Git, go [here](https://git-scm.com
