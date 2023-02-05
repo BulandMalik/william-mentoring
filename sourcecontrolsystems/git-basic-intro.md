@@ -167,7 +167,10 @@ git push origin :branch_name
 You may use ```.gitignore``` if you want to hide any file when uploading online. Just simply create a ```.gitignore``` file, and write all the files names you want to ignore.
 
 ### Git Cheat Sheet
+>[Git Cheat Sheet](../images/github-git-cheat-sheet.pdf)
+
 ![](../images/git-cheat-sheet.png)
+
 
 ### Useful Links
 1. [Google Free Git Course](https://www.coursera.org/learn/introduction-git-github)
