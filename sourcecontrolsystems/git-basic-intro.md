@@ -155,6 +155,28 @@ A conflict arises when two separate branches have made edits to the same line in
 
 >You can read about it [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) and [here](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts).
 
+### Git Blame
+Git blame is used to see the last commit and the last author who has modified for each line in the file.
+
+You can get more info by reading [here](https://levelup.gitconnected.com/how-to-use-git-blame-effectively-6228f3f7da5d).
+
+>checks the blame from line numbers 5 till 15 <br/>
+```git blame 5,15 setup.py```
+
+![](../images/git-blame-1.png)
+
+### Git Squash
+
+Git squash is a technique that helps you to take a series of commits and condense it to a few commits.
+
+For example, assume that you have a series of n commits. By squashing you can make all the n-commits to a single commit.
+
+Squashing is mainly used to condense a large number of commits to make it to a small number of meaningful commits. So that we can make the git history clearer.
+
+You can get more info by reading [here](https://levelup.gitconnected.com/how-to-squash-git-commits-9a095c1bc1fc).
+
+
+
 ### How to delete a remote branch?
 Here is an example of deleting the remote branch. The branch_name prefixed with a colon to git push will delete the remote branch:
 
