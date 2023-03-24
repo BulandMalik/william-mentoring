@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(111, 138, 99);
+  }
+
+  h1 {
+    color: rgb(255, 179, 0);
+    font-family: verdana;
+    font-size: 300%;
+  }
+
+  p {
+    color: rgba(255, 0, 166, 0.312);
+    font-family: courier;
+    font-size: 160%;
+  }
+
+   #p1_1 {
+    border: 2px solid powderblue;
+    padding: 30px; /*The CSS padding property defines a padding (space) between the text and the border.*/
+    margin: 50px; /*The CSS margin property defines a margin (space) outside the border.*/
+  }
