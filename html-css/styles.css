@@ -14,8 +14,16 @@ body {
     font-size: 160%;
   }
 
-   #p1_1 {
-    border: 2px solid powderblue;
-    padding: 30px; /*The CSS padding property defines a padding (space) between the text and the border.*/
-    margin: 50px; /*The CSS margin property defines a margin (space) outside the border.*/
+  #p1 {
+    border: 3px solid red;
+    color: rgba(0, 255, 170, 0.704);
+    padding: 50px; /*The CSS padding property defines a padding (space) between the text and the border.*/
+    margin: 10px; /*The CSS margin property defines a margin (space) outside the border.*/
+  }
+
+  #p2 {
+    border: 1px solid rgb(0, 38, 255);
+    color: rgba(255, 0, 187, 0.704);
+    padding: 50px; /*The CSS padding property defines a padding (space) between the text and the border.*/
+    margin: 10px; /*The CSS margin property defines a margin (space) outside the border.*/
   }
